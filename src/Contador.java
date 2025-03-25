@@ -6,8 +6,7 @@ import java.util.Scanner;
  * @since 25/03/2025
  */
 
-/*So, to resolve this challenge...
- * So, to resolve this challenge...  
+/*So, to resolve this challenge...  
  * Steps:  
  * 1. I need to review the content: if-else, switch-case, for, while, do-while, try-catch-finally, and throw.  
  * 2. I will use Scanner to read two integer numbers.  
